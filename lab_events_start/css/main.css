@@ -1,0 +1,10 @@
+body {
+  font-family: Palatino;
+}
+
+li {
+  margin: 20px;
+  width: 20%;
+  border: 1px solid;
+  color: darkolivegreen;
+}
